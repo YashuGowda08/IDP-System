@@ -37,7 +37,10 @@ DPI_FOR_PDF = 300
 MAX_PAGES = 50
 
 # CORS origins
-CORS_ORIGINS = [
-    "http://localhost:3000",
-    "http://127.0.0.1:3000",
-]
+# Allow localhost for dev, and allow all (*) for easy Vercel deployment,
+# or read from FRONTEND_URL environment variable if provided.
+frontend_env = os.getenv("FRONTEND_URL")
+if frontend_env:
+    CORS_ORIGINS = [frontend_env, "http://localhost:3000", "http://127.0.0.1:3000"]
+else:
+    CORS_ORIGINS = ["*"]
