@@ -1,0 +1,55 @@
+Sample Resume for IDP Testing
+
+CURRICULUM VITAE
+
+SARAH JOHNSON
+Senior Software Engineer
+
+Contact Information:
+Email: sarah.johnson@email.com
+Phone: (555) 123-4567
+Location: Austin, Texas
+LinkedIn: linkedin.com/in/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with over 8 years of expertise in full-stack development,
+cloud architecture, and machine learning. Proven track record of delivering scalable
+solutions for Fortune 500 companies.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University, Stanford, CA
+Graduated: June 2016
+GPA: 3.9/4.0
+
+Bachelor of Science in Information Technology
+University of Texas at Austin
+Graduated: May 2014
+GPA: 3.7/4.0
+
+EXPERIENCE
+
+Senior Software Engineer | Google LLC | January 2020 - Present
+- Led a team of 6 engineers to develop cloud-native microservices
+- Reduced system latency by 45% through optimization of database queries
+- Implemented ML pipelines processing over 10 million records daily
+
+Software Engineer | Amazon Web Services | June 2016 - December 2019
+- Developed RESTful APIs serving 50,000+ requests per second
+- Built CI/CD pipelines reducing deployment time by 60%
+- Mentored 4 junior engineers and conducted code reviews
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, Go, Java
+Frameworks: React, Node.js, FastAPI, Django, Spring Boot
+Cloud: AWS, GCP, Azure
+Databases: PostgreSQL, MongoDB, Redis, DynamoDB
+Tools: Docker, Kubernetes, Terraform, Git
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2022)
+- Google Cloud Professional Data Engineer (2021)
+- Certified Kubernetes Administrator (2020)
+
+REFERENCES
+Available upon request

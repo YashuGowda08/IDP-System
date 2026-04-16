@@ -1,0 +1,39 @@
+Sample Invoice Document for IDP Testing
+
+INVOICE
+Invoice #: INV-2024-0042
+Date: January 15, 2024
+Due Date: February 15, 2024
+
+FROM:
+Acme Corporation
+123 Business Park Drive
+San Francisco, CA 94102
+contact@acmecorp.com
+
+BILL TO:
+John Smith
+TechStart Solutions
+456 Innovation Avenue
+New York, NY 10001
+john.smith@techstart.com
+
+DESCRIPTION                  QTY    UNIT PRICE    AMOUNT
+Web Development Services      40    $150.00       $6,000.00
+UI/UX Design Consultation     20    $125.00       $2,500.00
+Database Architecture          8    $200.00       $1,600.00
+Quality Assurance Testing     16    $100.00       $1,600.00
+
+                              SUBTOTAL:          $11,700.00
+                              TAX (8.5%):           $994.50
+                              TOTAL:             $12,694.50
+
+Payment Terms: Net 30
+Payment Method: Bank Transfer
+
+Bank Details:
+Bank: First National Bank
+Account: 1234567890
+Routing: 021000021
+
+Thank you for your business!
